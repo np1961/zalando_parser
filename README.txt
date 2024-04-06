@@ -1,0 +1,1 @@
+Hello, this is a photo parser for the zalando.de site, I hasten to warn you that for its standard operation you will need to slightly correct the code. Parse everyone, everywhere and don’t forget about fingerprints and IP addresses... I wish you a good parse
